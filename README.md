@@ -5,7 +5,7 @@ Repositório para registrar minha jornada no bootcamp da XPE
 
 
 
-![Jornada](https://github.com/robertoricci/XPE-Bootcamp-Profissional-Azure-Cloud-Computing/blob/main/Jornada%20do%20Bootcamp.png?raw=true)
+![Jornada](XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/blob/main/Jornada%20do%20Bootcamp.png?raw=true)
 ## Referência
 
  - [XPE Educação](https://www.xpeducacao.com.br/)
@@ -16,7 +16,7 @@ Repositório para registrar minha jornada no bootcamp da XPE
 |1|Fundamentos em Economia e Mercado de Capitais| [Link](https://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/tree/8782dffb10e16c379d33cdb15223cf91948ed3b6/M%C3%B3dulo%201%20-%20Fundamentos%20em%20Economia%20e%20Mercado%20de%20Capitais)
 |2| Mercado de Capitais - Renda Fixa| [Link](https://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/tree/8782dffb10e16c379d33cdb15223cf91948ed3b6/M%C3%B3dulo%202%20-%20Mercado%20de%20Capitais%20-%20Renda%20Fixa)
 |3|Mercado de Capitais – Renda Variável| [Link](https://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/tree/8782dffb10e16c379d33cdb15223cf91948ed3b6/M%C3%B3dulo%203%20-%20Mercado%20de%20Capitais%20%E2%80%93%20Renda%20Vari%C3%A1vel) 
-|4|Ferramentas Business Intelligence| [Link](hhttps://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/tree/8782dffb10e16c379d33cdb15223cf91948ed3b6/M%C3%B3dulo%204%20-%20Ferramentas%20Business%20Intelligence) 
+|4|Ferramentas Business Intelligence| [Link](https://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/tree/8782dffb10e16c379d33cdb15223cf91948ed3b6/M%C3%B3dulo%204%20-%20Ferramentas%20Business%20Intelligence) 
 | |Nivelamento| [Link](https://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/tree/8782dffb10e16c379d33cdb15223cf91948ed3b6/M%C3%B3dulo%20de%20nivelamento) 
 | |Desafio Final| [Link](https://github.com/robertoricci/XPE-Bootcamp-Profissional-Azure-Cloud-Computing/tree/main/M%C3%B3dulo%20Desafio) 
 
