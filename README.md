@@ -1,8 +1,7 @@
 
-# Bootcamp Cientista de Dados com enfase me Mercado Financeiro
+# BOOTCAMP Ciêntista de Dados com ênfase me Mercado Financeiro
 
 Repositório para registrar minha jornada no bootcamp da XPE
-
 
 
 ![Jornada](https://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/blob/68bdbaa48a618acf8cc62d3d7fbcf6fe1d089c23/Jornada%20do%20Bootcamp.png?raw=true) 
@@ -24,10 +23,9 @@ Repositório para registrar minha jornada no bootcamp da XPE
 
 <br></br>
 <br></br>
-<br></br>
-<br></br>
 
 ## Meu certificado:
+<br></br>
 ![Meu certificado](https://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/blob/eb13934367f6d2ae64f298089d318104168a925f/1727806217963-e19610cf-6e47-4d0c-bc13-8c554147ea86_1.png?raw=true)
 
 
