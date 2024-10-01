@@ -1,11 +1,11 @@
 
-# Bootcamp Profissional Azure Cloud Computing
+# Bootcamp Cientista de Dados com enfase me Mercado Financeiro
 
 Repositório para registrar minha jornada no bootcamp da XPE
 
 
 
-![Jornada](XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/blob/main/Jornada%20do%20Bootcamp.png?raw=true)
+![Jornada](https://github.com/robertoricci/XPE-Bootcamp-Cientista-de-Dados-com--nfase-em-Mercado-Financeiro/blob/68bdbaa48a618acf8cc62d3d7fbcf6fe1d089c23/Jornada%20do%20Bootcamp.png?raw=true) 
 ## Referência
 
  - [XPE Educação](https://www.xpeducacao.com.br/)
